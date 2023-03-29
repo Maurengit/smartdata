@@ -1,7 +1,6 @@
 #importar librerias
 import streamlit as st
 import pandas as pd
-from sqlalchemy import create_engine
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 
